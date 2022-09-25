@@ -2,7 +2,7 @@
 
 En este repositorio encontrarás recursos gratuitos para aprender sobre distintas áreas de Frontend. Desde lo básico de HTML, CSS y JavaScript como Frameworks más avanzados. 
 
-Si tienes sugerencias de repositorios que quieras agregar a la lista puedes crear un PR con ellos. O puedes mandarme un DM por Twitter en [@Axolodev](https://twitter.com/@Axolodev)
+Si tienes sugerencias de repositorios que quieras agregar a la lista puedes crear un PR con ellos. O puedes mandarme un DM por Twitter en [Axolodev](https://twitter.com/@Axolodev)
 
 Aquí una explicación de los emojis:
 
