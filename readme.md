@@ -15,6 +15,7 @@ Aquí una explicación de los emojis:
 - [CSS](#CSS)
 - [JavaScript](#JavaScript)
 - [React](#react)
+  - [Gatsby](#gatsby)
 - [Otros](#otros)
 
 ## HTML
@@ -22,6 +23,7 @@ Aquí una explicación de los emojis:
 Nota: Pueden incluir CSS y JavaScript
 
 - freeCodeCamp - [Aplicación de fotos de gato](https://www.freecodecamp.org/espanol/learn/2022/responsive-web-design/#learn-html-by-building-a-cat-photo-app)
+- Código Facilito [Curso para crear mi primera página web](https://codigofacilito.com/cursos/primera-pagina-2019)
 - 🌎 Kevin Powell - [Learn HTML y CSS](https://scrimba.com/learn/htmlandcss)
 - 🌎 Kevin Powell - [Build a space travel website](https://scrimba.com/learn/spacetravel)
 
@@ -30,6 +32,7 @@ Nota: Pueden incluir CSS y JavaScript
 - 🌎 WesBos - [CSS Grid](https://cssgrid.io/)
 - 🌎 WesBos - [Flexbox](https://flexbox.io/)
 - 🌎 Kevin Powell - [Conquering Responsive Layouts](https://courses.kevinpowell.co/conquering-responsive-layouts)
+- Código Facilito - [Taller de Subgrid CSS](https://codigofacilito.com/cursos/css-subgrid)
 
 ## JavaScript
 
@@ -40,7 +43,17 @@ Nota: Pueden incluir CSS y JavaScript
 ## React 
 
 - freeCodeCamp - [Certificación de React](https://www.freecodecamp.org/espanol/learn/front-end-development-libraries/#react)
+- Código Facilito - [Curso gratis de React con ejercicios prácticos](https://codigofacilito.com/cursos/react-ejercicios)
+- Curso de Fundamentos de React - [Curso de Fundamentos de React](https://codigofacilito.com/cursos/react-intro-gratis)
+
+### Gatsby
+
+- Código Facilito - [Crea un sitio personal con Gatsby](https://codigofacilito.com/cursos/sitio-persional-gatsby)
+- Código Facilito - [Curso para crear un ecommerce serverless con Gatsby](https://codigofacilito.com/cursos/serverless-ecommerce)
 
 ## Otros
 
+- Código Facilito - [Curso de TypeScript](https://codigofacilito.com/cursos/typescript)
+- Código Facilito - [Curso de Materialize](https://codigofacilito.com/cursos/materialize) 
 - 🌎 WesBos - [Mastering Markdown](https://masteringmarkdown.com/)
+
