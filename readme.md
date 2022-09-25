@@ -6,7 +6,6 @@ Si tienes sugerencias de repositorios que quieras agregar a la lista puedes crea
 
 Aquí una explicación de los emojis:
 
-
 - 🌎 significa que el recurso está en otro idioma, normalmente inglés. Buscamos recopilar recursos solo en español, pero siempre es útil tener en otros idiomas a la mano (Ojo: Estos recursos no necesariamente tienen subtítulos).
 
 ## Tabla de contenidos
@@ -29,10 +28,10 @@ Nota: Pueden incluir CSS y JavaScript
 
 ## CSS 
 
+- Código Facilito - [Taller de Subgrid CSS](https://codigofacilito.com/cursos/css-subgrid)
 - 🌎 WesBos - [CSS Grid](https://cssgrid.io/)
 - 🌎 WesBos - [Flexbox](https://flexbox.io/)
 - 🌎 Kevin Powell - [Conquering Responsive Layouts](https://courses.kevinpowell.co/conquering-responsive-layouts)
-- Código Facilito - [Taller de Subgrid CSS](https://codigofacilito.com/cursos/css-subgrid)
 
 ## JavaScript
 
