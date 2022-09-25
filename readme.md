@@ -1,14 +1,13 @@
 ¡Hola! 
 
-En este repositorio encontrarás recursos, tanto gratuitos como de paga, para aprender sobre distintas áreas de Frontend. Desde lo básico de HTML, CSS y JavaScript como Frameworks más avanzados. 
+En este repositorio encontrarás recursos gratuitos para aprender sobre distintas áreas de Frontend. Desde lo básico de HTML, CSS y JavaScript como Frameworks más avanzados. 
 
-Si tienes sugerencias de repositorios que quieras agregar a la lista puedes crear un PR con ellos. O puedes mandarme un DM por Twitter ([https://twitter.com/@Axolodev](@Axolodev))
+Si tienes sugerencias de repositorios que quieras agregar a la lista puedes crear un PR con ellos. O puedes mandarme un DM por Twitter en [@Axolodev](https://twitter.com/@Axolodev)
 
 Aquí una explicación de los emojis:
 
-- 💬 significa que el recurso está en otro idioma pero contiene subtítulos en español.
-- 💲 significa que requieres una compra o suscripción para poder ver el recurso.
-- 🌎 significa que el recurso está en otro idioma. Buscamos recopilar recursos solo en español, pero siempre es útil tener en otros idiomas a la mano (Ojo: Estos recursos no necesariamente tienen subtítulos).
+
+- 🌎 significa que el recurso está en otro idioma, normalmente inglés. Buscamos recopilar recursos solo en español, pero siempre es útil tener en otros idiomas a la mano (Ojo: Estos recursos no necesariamente tienen subtítulos).
 
 ## Tabla de contenidos
 
@@ -16,6 +15,7 @@ Aquí una explicación de los emojis:
 - [CSS](#CSS)
 - [JavaScript](#JavaScript)
 - [React](#react)
+- [Otros](#otros)
 
 ## HTML
 
@@ -27,6 +27,8 @@ Nota: Pueden incluir CSS y JavaScript
 
 ## CSS 
 
+- 🌎 WesBos - [CSS Grid](https://cssgrid.io/)
+- 🌎 WesBos - [Flexbox](https://flexbox.io/)
 - 🌎 Kevin Powell - [Conquering Responsive Layouts](https://courses.kevinpowell.co/conquering-responsive-layouts)
 
 ## JavaScript
@@ -38,7 +40,6 @@ Nota: Pueden incluir CSS y JavaScript
 ## React 
 
 - freeCodeCamp - [Certificación de React](https://www.freecodecamp.org/espanol/learn/front-end-development-libraries/#react)
-
 
 ## Otros
 
