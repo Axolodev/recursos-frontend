@@ -42,4 +42,4 @@ Nota: Pueden incluir CSS y JavaScript
 
 ## Otros
 
-- WesBos - [Mastering Markdown](https://masteringmarkdown.com/)
+- 🌎 WesBos - [Mastering Markdown](https://masteringmarkdown.com/)
