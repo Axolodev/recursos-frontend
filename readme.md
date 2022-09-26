@@ -73,5 +73,4 @@ Lista de retos con los que puedes practicar y mejorar tus habilidades como desar
 - 🌎 Frontend Mentor - [Web Challenges](https://www.frontendmentor.io/)
 - 🌎 Codewell - [Real design template challeneges](https://www.codewell.cc/)
 - 🌎 devChallenges.io - [Front-end, Full-stack y Responsive Web developer challenges](https://devchallenges.io/)
-- 🌎 Frontloops - [Frontend development challenges](https://frontloops.io/)
 - 🌎 Piccalil - [Front-End Challenges Club](https://piccalil.li/category/front-end-challenges-club/)
